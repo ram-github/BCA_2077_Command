@@ -1,0 +1,1 @@
+I am storing into file using FW under characterstream class
